@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, wold!" << endl;  // Errore intenzionale
+    cout << "Hello, world!" << endl;  // Errore intenzionale
     return 0;
 }
